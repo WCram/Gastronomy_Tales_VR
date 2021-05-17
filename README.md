@@ -4,7 +4,7 @@
 Synopsis:\
 Inspried by the Eritrean Coffee Ceremony that a friend was kind enough to invite me to, I wanted to create a cooking game that taught not only how to make recipes, but the stories and history behind them and the places the came from. It would combine a simplified, but accurate cooking model while integrating enteraining npcs that would help teach you how to cook while also talking about their lives and where they came from.
 
-Purpose:\
+Purpose:
 * Figure out how to make an efficent cooking system that's expandable
 * Develop in game cinematics and npc interactions
 * Working on modeling different real world locals
