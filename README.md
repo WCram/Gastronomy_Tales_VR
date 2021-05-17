@@ -13,4 +13,5 @@ Purpose:
 Software and Equipment:
 * Unity Engine - C#, XR Interactive Toolkit
 * Blender
+* Gravity Sketch - 1 of the 3d Models
 * Oculus Rift S or Oculus Link
